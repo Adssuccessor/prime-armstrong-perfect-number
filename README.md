@@ -1,0 +1,1 @@
+# prime-armstrong-perfect-number
